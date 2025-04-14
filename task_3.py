@@ -1,5 +1,4 @@
 n = int(input())
-min = []
 if n<2:
     print(1)
 else:
